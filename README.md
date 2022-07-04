@@ -40,9 +40,9 @@ Este projeto possui as seguintes dependências:
 - 2.4) Etapa 4: Treinamento (definição dos hiperparâmetros, execução do treianamento);
 - 2.5) Etapa 5: Avaliação
 - 2.6) Etapa 6: Submissão de Sentenças (implmentação das def obter_predicao(sentence), busca_final() e gerar_saida()) 
-- 2.6.1) Arquivo de entrada com as sentenças a se serem avaliadas: avalia.txt
+- 2.6.1) Arquivo de entrada com as sentenças a serem avaliadas: avalia.txt
 - 2.6.2) Arquivo de saída com a extração das relações encontradas pelo modelo: saida.txt
-- 2.6.3) Arquivo de saída já triplificado (sujeito, predicado e objeto) para ser importado no repositório no GraphDB: saida.n3
+- 2.6.3) Arquivo de saída do item 2.6.2 (parte) já triplificado (sujeito, predicado e objeto) para ser importado no repositório no GraphDB: saida.n3
 
 # Trabalhos e publicações
 - T4 - Trabalho da disciplina de IA 01/2022 - Inteligência Artificial - (SC 210310): AER-MinT - Uma abordagem para apoiar o processo de Extração de Relações baseado em Mineração de dados Textuais
