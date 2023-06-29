@@ -45,4 +45,5 @@ Este projeto possui as seguintes dependências:
 - 2.6.3) Arquivo de saída do item 2.6.2 (parte) já triplificado (sujeito, predicado e objeto) para ser importado no repositório no GraphDB: saida.n3
 
 # Trabalhos e publicações
-- T4 - Trabalho da disciplina de IA 01/2022 - Inteligência Artificial - (SC 210310): AER-MinT - Uma abordagem para apoiar o processo de Extração de Relações baseado em Mineração de dados Textuais
+- AVELINO, Jones O.; CORDEIRO, Kelli F.; C. CAVALCANTI, Maria. AER-MinT - Apoio ao processo de Extração de Relações baseado em Mineração de dados Textuais. In: SIMPÓSIO BRASILEIRO DE BANCO DE DADOS (SBBD), 37. , 2022, Búzios. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2022 . p. 409-414. ISSN 2763-8979. DOI: https://doi.org/10.5753/sbbd.2022.226201.
+- Acesso ao artigo: https://sol.sbc.org.br/index.php/sbbd/article/view/21828
